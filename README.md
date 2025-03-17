@@ -13,8 +13,10 @@ Este repositório contém dois jogos simples implementados em Python: **Adivinha
 O repositório contém três arquivos principais:
 
 - **`forca.py`**: Contém a lógica do jogo da Forca.
-- **`adivinhacao.py`**: Contém a lógica do jogo de Adivinhação.
+- **`ADIVIN~1.py`**: Contém a lógica do jogo de Adivinhação.
 - **`jogos.py`**: O arquivo principal que inicia o jogo e permite que o jogador escolha entre "Forca" ou "Adivinhação".
+- - **`palavras.txt`**: Lista de palavras para o jogo de Forca.
+
 
 ## Como Rodar o Jogo
 
